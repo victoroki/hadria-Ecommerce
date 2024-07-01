@@ -13,7 +13,7 @@ To run this Laravel app, you need to have the following software installed on yo
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hilalahmad0101/ecomarce-website.git
+   git clone https://github.com/victoroki/hadria-Ecommerce.git
    ```
 2. Change into the project directory:
     ```bash
